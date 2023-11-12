@@ -2394,6 +2394,7 @@ ul.simplefilter {
 	}
 	.counter-subw3l {
 		width: 21%;
+		font-size: 12px;
 	}
 	.w3layouts-agileits-social li a i {
 		margin: 0 4px;
@@ -3168,6 +3169,7 @@ ul.simplefilter {
 	}
 	.counter-subw3l {
 		width: 45%;
+		font-size: 11px;
 	}
 	.w3layouts-agileits-social li a i {
 		margin: 0 1px;
@@ -3391,6 +3393,7 @@ ul.simplefilter {
 	.counter-subw3l.w3l-right-footer {
 		left: 39%;
 		top: 80%;
+		zoom: 80%;
 	}
 	.ftr-menu ul li a {
 		margin: 0 .3em;
